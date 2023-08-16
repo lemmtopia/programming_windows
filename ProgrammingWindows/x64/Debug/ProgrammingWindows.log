@@ -1,0 +1,6 @@
+﻿  hello.c
+C:\Users\gabri\Documents\GitHub\programming_windows\ProgrammingWindows\hello.c(26,28): warning C4133: '=': tipos incompatíveis - de 'char *' para 'LPCWSTR'
+C:\Users\gabri\Documents\GitHub\programming_windows\ProgrammingWindows\hello.c(43,1): warning C4002: muitos argumentos para a invocação de macro de função 'CreateWindowW'
+C:\Users\gabri\Documents\GitHub\programming_windows\ProgrammingWindows\hello.c(31,11): warning C4133: 'função': tipos incompatíveis - de 'char [6]' para 'LPCWSTR'
+C:\Users\gabri\Documents\GitHub\programming_windows\ProgrammingWindows\hello.c(53,16): warning C4244: 'return': conversão de 'WPARAM' para 'int', possível perda de dados
+  ProgrammingWindows.vcxproj -> C:\Users\gabri\Documents\GitHub\programming_windows\ProgrammingWindows\x64\Debug\ProgrammingWindows.exe
